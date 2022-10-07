@@ -1,7 +1,9 @@
-*
+/*
+
+!.gitignore
+!README.md
+
 !.zshrc
 !.oh-my-zsh/custom/
 !.init.sh
 !.config/i3/
-
-!*/
