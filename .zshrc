@@ -4,7 +4,7 @@ ZSH_THEME="gnzh"
 
 ENABLE_CORRECTION="true"
 
-plugins=(git docker web-search zsh-autosuggestions jsontools)
+plugins=(git ssh-agent docker web-search zsh-autosuggestions jsontools)
 
 source $ZSH/oh-my-zsh.sh
 
