@@ -1,6 +1,8 @@
 sudo pacman -Syu
 
-sudo pacman -S zsh keepassxc firefox
+sudo pacman -S zsh keepassxc firefox python python-pip tor
+
+yay -S fclones
 
 sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 
