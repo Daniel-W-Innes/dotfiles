@@ -1,6 +1,6 @@
 sudo pacman -Syu
 
-sudo pacman -S zsh keepassxc firefox python python-pip tor
+sudo pacman -S zsh keepassxc firefox python python-pip tor feh neofetch
 
 yay -S fclones
 
