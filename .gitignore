@@ -3,6 +3,9 @@
 !.gitignore
 !README.md
 
+.oh-my-zsh/.gitignore
+.oh-my-zsh/README.md
+
 !.zshrc
 !.oh-my-zsh/custom/
 !init.sh
